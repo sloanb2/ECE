@@ -1,3 +1,4 @@
+These files comprise the final exam of CS260 at Portland Community College.
 The following functions included in table.cpp perform operations on tree data structures.
 The function prototypes exist in table.h and are invoked in main.cpp.
 
